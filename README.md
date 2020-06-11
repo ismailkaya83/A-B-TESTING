@@ -22,7 +22,7 @@ So finally we said; There is no statistically significant difference between the
        Distribution of The Test Group
 ![](test_group_dist.png)
 
-       The Box Plot of Purchases in the Groups (A= Control, B= Test)
+       The Box Plot of Purchases in the Groups
 ![](boxplot.png)
 
 
